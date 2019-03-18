@@ -14,7 +14,6 @@ Domain: Banking and Marketing
 Git Link:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 ### 2. Propensity Modelling for Bank Marketing
@@ -24,7 +23,7 @@ Problem Definition:
 Domain: 
 Git Link: 
 
-```markdown
+
 Syntax highlighted code block
 ### 3. Sentiment Analysis of reviews - Trip Advisor
 
@@ -32,7 +31,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Problem Definition:
 Domain: 
 Git Link:
-```markdown
+
 Syntax highlighted code block
 
 ### 4. Some Other Project
@@ -42,13 +41,13 @@ Domain:
 Git Link:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 ### Data Analysis of Illicit Supply Chain 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 # Header 1
 ## Header 2
